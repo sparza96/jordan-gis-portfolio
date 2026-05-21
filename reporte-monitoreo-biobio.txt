@@ -1,0 +1,37 @@
+
+╔══════════════════════════════════════════════════════╗
+║     REPORTE AUTOMÁTICO DE MONITOREO TERRITORIAL      ║
+║     Región del Biobío — Generado automáticamente     ║
+╚══════════════════════════════════════════════════════╝
+
+RESUMEN EJECUTIVO:
+  Total eventos detectados:  50
+  Comunas afectadas:         20
+  Comunas sin eventos:       13
+
+DISTRIBUCIÓN POR TIPO:
+tipo
+Daño plantación    13
+Toma terreno       13
+Incendio           12
+Tala ilegal        12
+
+DISTRIBUCIÓN POR SEVERIDAD:
+severidad
+Media    27
+Alta     13
+Baja     10
+
+COMUNAS EN RIESGO CRÍTICO:
+     COMUNA  indice_riesgo
+    Quilaco           10.0
+     Antuco           11.0
+Alto Biobío           17.0
+Santa Juana            9.0
+
+COMUNAS EN RIESGO ALTO:
+     COMUNA  indice_riesgo
+   Quilleco            6.0
+       Lebu            7.0
+    Cabrero            5.0
+Curanilahue            5.0
