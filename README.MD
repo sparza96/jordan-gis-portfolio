@@ -9,7 +9,7 @@
 
 ## 📌 Sobre mí
 
-Geógrafo de la Universidad de Concepción (Chile) transformando datos geográficos en decisiones territoriales. He construido un portafolio de **10+ proyectos GIS** en 21 días, combinando mi formación profesional con desarrollo Python.
+Geógrafo de la Universidad de Concepción (Chile) transformando datos geográficos en decisiones territoriales. Estoy construyendo este portafolio que cuenta hasta el momento con **10+ proyectos GIS** que he podido realizar en el último tiempo, para agregar herramientas de utilidad a mi formación profesional con desarrollo Python.
 
 **Lo que aporto:**
 - ✅ Análisis de accesibilidad a servicios (salud, educación)
@@ -99,7 +99,7 @@ Geógrafo de la Universidad de Concepción (Chile) transformando datos geográfi
 ## 📫 Contacto
 
 - **GitHub:** [github.com/sparza96](https://github.com/sparza96)
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) *(actualiza el link)*
+- **LinkedIn:** [linkedin.com/in/sparza96](https://linkedin.com/in/sparza96) *(actualiza el link)*
 - **Email:** jsparza96@gmail.com *(o tu correo real)*
 - **Web:** https://sparza96.github.io *(próximamente - día 23!)*
 
