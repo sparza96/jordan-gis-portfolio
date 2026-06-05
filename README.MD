@@ -92,16 +92,16 @@ Geógrafo de la Universidad de Concepción (Chile) transformando datos geográfi
 - 🗺️ **8 mapas interactivos** (HTML)
 - 📸 **12 visualizaciones estáticas** (PNG)
 - 🧠 **1 modelo ML** implementado
-- 🔥 **30+ commits** en 21 días
+- 🔥 **30+ commits** 
 
 ---
 
 ## 📫 Contacto
 
 - **GitHub:** [github.com/sparza96](https://github.com/sparza96)
-- **LinkedIn:** [linkedin.com/in/sparza96](https://linkedin.com/in/sparza96) *(actualiza el link)*
-- **Email:** jsparza96@gmail.com *(o tu correo real)*
-- **Web:** https://sparza96.github.io *(próximamente - día 23!)*
+- **LinkedIn:** [linkedin.com/in/sparza96](https://linkedin.com/in/sparza96) 
+- **Email:** jsparza96@gmail.com 
+- **Web:** https://sparza96.github.io 
 
 ---
 
