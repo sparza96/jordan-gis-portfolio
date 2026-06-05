@@ -22,7 +22,7 @@ Geógrafo de la Universidad de Concepción (Chile) transformando datos geográfi
 
 ## 🚀 Proyectos destacados
 
-### 1️⃣ Dashboard de Riesgo Territorial (Semana 3)
+### 1️⃣ Dashboard de Riesgo Territorial 
 **Análisis multicriterio de vulnerabilidad urbana**
 
 | | |
@@ -35,7 +35,7 @@ Geógrafo de la Universidad de Concepción (Chile) transformando datos geográfi
 
 ---
 
-### 2️⃣ Machine Learning Espacial - Random Forest (Semana 2/3)
+### 2️⃣ Machine Learning Espacial - Random Forest 
 **Clasificación supervisada de uso del suelo**
 
 | | |
@@ -48,7 +48,7 @@ Geógrafo de la Universidad de Concepción (Chile) transformando datos geográfi
 
 ---
 
-### 3️⃣ Monitoreo Forestal con Imágenes Landsat (Semana 3)
+### 3️⃣ Monitoreo Forestal con Imágenes Landsat 
 **Detección de cambios de cobertura vegetal**
 
 | | |
@@ -61,7 +61,7 @@ Geógrafo de la Universidad de Concepción (Chile) transformando datos geográfi
 
 ---
 
-### 4️⃣ Análisis de Accesibilidad a Servicios de Salud (Semana 2)
+### 4️⃣ Análisis de Accesibilidad a Servicios de Salud 
 **Metodología replicable para políticas públicas**
 
 | | |
